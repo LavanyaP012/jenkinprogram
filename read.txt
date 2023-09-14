@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 788D-1A3D
+
+ Directory of C:\Users\SARASWATHI\Desktop\java
+
+14-09-2023  12:31    <DIR>          .
+14-09-2023  11:29    <DIR>          ..
+14-09-2023  11:31               479 helloworld.class
+14-09-2023  11:31               145 helloworld.java
+14-09-2023  12:31                 0 read.txt
+               3 File(s)            624 bytes
+               2 Dir(s)  119,371,739,136 bytes free
